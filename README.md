@@ -1,13 +1,16 @@
 
 Команды для запуска
 
+
 База:
 
 python src/main.py --file example1.log --report average
 
+
 Два файла:
 
 python src/main.py --file example1.log --file example2.log --report average
+
 
 С датой:
 
